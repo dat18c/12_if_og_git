@@ -18,7 +18,7 @@ esp. boolean expressions
 * Konfigurer standard editor - eller lær VI
 * Lav repository til aflevering af Animal Horror Zoo
 * Upload diagrammer mandag
-* upload kode senest onsdag kl. 16
+* Upload kode senest onsdag kl. 16
 
 ### Upload made simple
 * Lav et public repository i GitHub. Husk at inkludere en .gitignore til Java, så I slipper for upload af .class filer.
