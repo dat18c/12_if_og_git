@@ -6,8 +6,29 @@
 * if sætninger
 * Opsætning af Git og upload til GitHub
 
-## Øvelser i if sætninger
-esp. boolean expressions
+## If sætninger
+If sætninger bruges til at vælge mellem flere program flow.
+````
+if (a<10)
+{
+  Det der skal ske, hvis a er mindre end 10
+}
+else if (a==10)
+{
+  Det der skal ske, hvis a er lig med 10
+}
+else //a>10
+{
+  Det er skal ske, hvis ingen af de to første er sande, dvs. a>10
+}
+````
+  Udtrykket i parentes skal kunne udtrykkes som sandt eller falsk. Det kaldes et boolsk udtryk.
+  Boolske operatorer
+  >
+  ==
+  <
+  && - logisk AND
+  || - logisk OR (ALT + i på dansk Mac)
 
 ## Git og GitHub
 
