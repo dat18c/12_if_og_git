@@ -25,17 +25,14 @@ else //a>10
   Udtrykket i parentes skal kunne udtrykkes som sandt eller falsk. Det kaldes et boolsk udtryk.
   
   Boolske operatorer
-  
+  `````
   >
-  
   ==
-  
   <
-  
   && - logisk AND
-  
   || - logisk OR (ALT + i på dansk Mac)
-
+  ! - logisk NOT, dvs. negation
+`````
 ## Git og GitHub
 
  Jeres Little Animal Horror Zoo opgave skal afleveres på _GitHub_.
