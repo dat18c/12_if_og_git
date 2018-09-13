@@ -27,12 +27,21 @@ else //a>10
   Boolske operatorer
   `````
   >
+  >=
   ==
+  !=
   <
+  <=
   && - logisk AND
   || - logisk OR (ALT + i på dansk Mac)
   ! - logisk NOT, dvs. negation
 `````
+### Øvelser
+
+Exercises 1 - 7 på side 335 - 336.
+
+Self check 2 på side 328 er god til at få rutine.
+
 ## Git og GitHub
 
  Jeres Little Animal Horror Zoo opgave skal afleveres på _GitHub_.
