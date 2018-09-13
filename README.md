@@ -20,7 +20,6 @@ esp. boolean expressions
 * Upload diagrammer mandag
 * upload kode senest onsdag kl. 16
 
-
 ### Upload made simple
 * Lav et public repository i GitHub. Husk at inkludere en .gitignore til Java, så I slipper for upload af .class filer.
 * Find kataloget med afleveringsfilerne i Git Bash.
@@ -51,7 +50,6 @@ Terminalen (Mac)
   $ git init
   $ git add .
   $ git commit -m "besked"
-
 ````
 Opret forbindelse til jeres online GitHub Repository og upload filerne
 ````
@@ -61,5 +59,10 @@ Opret forbindelse til jeres online GitHub Repository og upload filerne
 Cloning af et eksisterende online Github Repository (nyttigt hvis andre skal have afleveringen ned i samme udgave).
 ````
   $ git clone https://urlTilJeresGithubRepository
-  
+````
+Senere kan I opdatere afleveringen med filerne, som de ser ud i kataloget på pc'en
+````
+  $ git add .
+  $ git commit -m "besked"
+  $ git push origin master
 ````
