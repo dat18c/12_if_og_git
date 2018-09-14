@@ -50,7 +50,7 @@ Self check 2 på side 328 er god til at få rutine i, hvad sammenligningsoperato
 * Installer Git
 * Konfigurer standard editor - eller lær VI
 * Lav repository til aflevering af Animal Horror Zoo
-* Upload diagrammer mandag
+* Upload diagrammer onsdag kl. 16
 * Upload kode senest onsdag kl. 16
 
 ### Upload made simple
