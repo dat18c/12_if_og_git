@@ -1,21 +1,43 @@
 public class Dog
 {
-   String navn;
-   String foedselsdato;
+   private String name;
+   private String foedselsdato;
    
    //konstruktør
    public Dog()
    {
-      navn = "";
+      name = "";
       foedselsdato = "1. april 2018";
    }
    
-   public Dog(String navn, String dato)
+   public Dog(String name, String dato)
    {
-      this.navn = navn;
+      this.name = name;
       this.foedselsdato = dato;
    }
    
+   //get (accessor) & set (mutator)
+   public void setNavn(String name)
+   {
+      this.name = name;
+   }
+   
+   public void setFoedselsdato(String dato)
+   {
+      this.foedselsdato = dato;
+   }
+   
+   public String getNavn()
+   {
+      return name;
+   }
+   
+   public String getFoedselsdato()
+   {
+      return foedselsdato;
+   }
+   
+   //øvrige metoder
    public void logre(boolean glad)
    {
    
