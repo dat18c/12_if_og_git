@@ -40,7 +40,7 @@ else //a>10
 
 Exercises 1 - 7 på side 335 - 336.
 
-Self check 2 på side 328 er god til at få rutine.
+Self check 2 på side 328 er god til at få rutine i, hvad sammenligningsoperatorerne gør.
 
 ## Git og GitHub
 
