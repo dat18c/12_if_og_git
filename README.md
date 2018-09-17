@@ -72,9 +72,14 @@ Self check 2 på side 328 er god til at få rutine i, hvad sammenligningsoperato
 
 ### Terminal/Console komandoer
 ````
-  cd   // Change Directory
+  cd      // Change Directory
   cd ..   // one folder back
-  pwd   // Print working directory
+  mkdir <foldernavn> //opret kataloget <foldernavn>
+  pwd     // Print working directory
+  ls      // list filer i katalog - som dir
+  ls -al  // list alle filer inkl skjulte filer
+  cat <filnavn> //udskriv indholdet af <filnavn>, f.eks. cat .gitignore
+  echo "min tekst" >> <filnavn> //skriv min tekst i filen <filnavn> - nyttigt so echo "*.class" >> .gitignore
 ````
 ### Git Komandoer
 Dette skrives i Git Bash konsollen (windows)    
