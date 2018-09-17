@@ -81,7 +81,7 @@ Self check 2 på side 328 er god til at få rutine i, hvad sammenligningsoperato
   cat <filnavn>       //udskriv indholdet af <filnavn>, f.eks. cat .gitignore
   
   echo "min tekst" >> <filnavn>
-  //skriv min tekst i filen <filnavn> - nyttigt so echo "*.class" >> .gitignore
+  //skriv min tekst i filen <filnavn> - f.eks. echo "*.class" >> .gitignore
 ````
 ### Git Komandoer
 Dette skrives i Git Bash konsollen (windows)    
